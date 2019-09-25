@@ -1,0 +1,372 @@
+/*
+ Localizable.strings
+ AroundUAE
+ 
+ Created by Apple on 13/09/2018.
+ Copyright © 2018 Apple. All rights reserved.
+ */
+"Around UAE" = "حول الإمارات";
+//splash
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's" = "لوريم إيبسوم (Lorem Ipsum) هو ببساطة نص شكلي في صناعة الطباعة والتنضيد. كان أبجد هوز في الصناعة";
+
+//language
+"Language" = "لغة";
+"Select Language" = "اختار اللغة";
+"Select language to continue with" = "اختر لغة للمتابعة";
+"English" = "الإنجليزية";
+"Arabic" = "عربى";
+"Near to Far" = "بالقرب من الأقصى";
+"Far to Near" = "الأقصى إلى الأدنى";
+"Select Option" = "حدد الخيار";
+"Max Price"  = "ماكس السعر";
+"Min Price" = "مين السعر";
+//login screen
+"Login" = "تسجيل الدخول";
+"Username" = "اسم المستخدم";
+"Password" = "كلمه السر";
+"Forgot your password?" = "نسيت رقمك السري؟";
+"OR" = "أو";
+"Login with facebook" = "تسجيل الدخول باستخدام الفيسبوك";
+"Login with gmail" = "تسجيل الدخول باستخدام جوجل";
+"Don't have an account?" = "ليس لديك حساب؟";
+"Register now" = "سجل الان";
+"Alert" = "محزر";
+"Please Enter Email!" = "من فضلك أدخل البريد الإلكتروني!";
+"Please Enter Valid Email!" = "الرجاء إدخال بريد إلكتروني صحيح!";
+"Please Enter Password" = "من فضلك أدخل كلمة المرور";
+
+//"Forgot Password"
+"Forgot Password" = "هل نسيت كلمة المرور";
+"Forgot your password? Enter your email below " = "نسيت رقمك السري؟ أدخل بريدك الالكتروني أدناه";
+"Enter Code" = "ادخل الرمز";
+"Submit" = "خضع";
+"Resend" = "إعادة إرسال";
+"Please Enter email" = "يرجى إدخال البريد الإلكتروني";
+
+//"Change Password"
+"Change Password" = "تغيير كلمة السر";
+"Enter your new password and then confirm it to change your account password" = "أدخل كلمة المرور الجديدة الخاصة بك ثم قم بتأكيدها لتغيير كلمة مرور حسابك";
+"Old Password" = "كلمة المرور القديمة";
+"New Password" = "كلمة السر الجديدة";
+"Confirm Password" = "تأكيد كلمة المرور";
+"Cancel" = "إلغاء";
+"Update" = "تحديث";
+
+"Please Enter Old Password" = "الرجاء إدخال كلمة المرور القديمة";
+"Please Enter New Password" = "يرجى إدخال كلمة مرور جديدة";
+"Please Enter Confirm Password" = "الرجاء إدخال تأكيد كلمة المرور" ;
+"know more details about various shops, location & tourist spots around UAE" = "كلمة المرور يجب أن تحتوي على 6 أحرف";
+"password must contain 6 characters" = "كلمة المرور يجب أن تحتوي على 6 أحرف";
+//Register
+"Register" = "تسجيل";
+"First Name" = "الاسم الاول";
+"Last Name" = "الكنية";
+"Phone no" = "رقم الهاتف";
+"Address" = "عنوان";
+"Attach NIC Copy" = "إرفاق نسخة NIC";
+"Gender" = "جنس";
+"Male" = "الذكر";
+"Female" = "إناثا";
+"Already have an account?" = "هل لديك حساب؟";
+"Confirm Password" = "تأكيد كلمة المرور";
+"Password" = "كلمه السر";
+"Email" = "البريد الإلكتروني";
+"Login now" = "تسجيل الدخول الآن" ;
+
+"Please Enter First Name" = "يرجى إدخال الاسم الأول";
+"Please Enter Last Name" = "يرجى إدخال اسم العا ئلة";
+"Please Enter Phone Number" =  "يرجى إدخال رقم الها تف";
+"Please Enter Password" = "من فضلك أدخل كلمة المرور";
+"Please Enter Confirm Password" = "الرجاء إدخال تأكيد كلمة المرور";
+"Please Enter Address" = "يرجى إدخال العنوان";
+"Please Select Nic Image" = "يرجى اختيار نيك الصورة" ;
+
+//"Email Verfication"
+"Email Verfication" = "البريد الإلكتروني";
+"A verfication code is send to your email, please check your email and enter the verfication code below" = "يتم إرسال رمز التحقق إلى بريدك الإلكتروني ، يرجى التحقق من بريدك الإلكتروني وإدخال رمز التحقق أدناه";
+"Enter Code" = "ادخل الرمز";
+"Resend" = "إعادة إرسال";
+"Please Enter Code" = "يرجى إدخال الرمز";
+//"Contact Us"
+"Contact Us" = "اتصل بنا";
+"What can we Help you with?" = "بمادا يمكننا ان نساعدك؟";
+"App Feedback" = "ملاحظات التطبيق";
+"Name" = "اسم";
+"Your Comment" = "تعليقك";
+"Comment" = "تعليق";
+
+// "TabsHome"
+"Around UAE" = "حول الإمارات";
+"View More" = "عرض المزيد";
+"know more details about various shops ,location & tourist spots around UAE " = "معرفة المزيد من التفاصيل حول مختلف المحلاتمعرفة المزيد من التفاصيل حول مختلف المحلات التجارية والمواقع والمناطق السياحية في جميع أنحاء الإمارات العربية المتحدة";
+"GENERAL SERVICES" = "خدمات عامة";
+"Empty List" = "قائمة فارغة";
+
+"Sorry there no data is available refresh it or try it later " = "عذرًا ، لا توجد بيانات متوفرة لتحديثها أو تجربتها لاحقًا";
+"View All" = "عرض الكل";
+//"VCMENU"
+
+"My Orders"  = "طلباتي";
+"Change Settings" =  "تغيير الاعدادات" ;
+"About Us" = "معلومات عنا";
+"Terms & Conditions" =   "البنود و الظروف";
+"Privacy Policy" = "سياسة الخصوصية";
+"Logout" =   "الخروج";
+"Error" = "خطأ";
+//"ProductList"
+"Products" = "منتجات";
+
+//"Profile"
+"Name" = "اسم";
+"Email" = "البريد الإلكتروني";
+"Password" = "كلمه السر";
+"CNIC" = "ج ن ط ج";
+"Gender"  = "جنس";
+"City" = "مدينة";
+"Address" = "عنوان";
+"Phone no" = "رقم الهاتف";
+"Profile" = "الملف الشخصي";
+//"VCPopupprofile"
+
+"Cancel" ="إلغاء" ;
+"Submit" = "خضع" ;
+"Edit Name" = "تعديل الاسم";
+"Please Enter your name" = "من فضلك أدخل إسمك";
+"Edit Email" = "تحرير البريد الالكتروني";
+"Please Enter your Email" = "رجاءا أدخل بريدك الإلكتروني";
+"Edit Gender" = "تحرير الجنس";
+"Please Enter your Gender" = "يرجى إدخال نوع الجنس الخاص بك";
+"Edit Phone no" = "تحرير الهاتف لا";
+"Please Enter your  c n i c " =  "ج ن ط ج من فضلك أدخل";
+"Edit c n i c" = "تحرير ج ن ط ج ";
+"c n i c" = "ج ن ط ج";
+"Edit Gender" = "تحرير الجنس";
+"Please Select your Gender" = "يرجى تحديد نوع الجنس الخاص بك";
+"CANCEL" = "إلغاء";
+"UPDATE" = "تحديث";
+"Edit City" = "تحرير المدينة";
+"Please Enter your city" = "يرجى إدخال المدينة الخاصة بك";
+"Male" = "الذكر";
+"Female" = "إناثا";
+"Please Enter your Phone no" = "يرجى إدخال رقم الهاتف الخاص بك";
+"Please Enter Name" = "من فضلك أدخل الاسم";
+"Please Enter Email" = "يرجى إدخال البريد الإلكتروني";
+"Please Enter Valid Email" = "الرجاء إدخال بريد إلكتروني صحيح";
+"Please Enter Password" = "من فضلك أدخل كلمة المرور";
+"Please Enter Password Below 6 Characters" = "يرجى إدخال كلمة المرور أدناه ستة أحرف";
+"Please Enter CNIC" = "يرجى إدخال CNIC";
+"Please Enter Gender" = "يرجى إدخال الجنس";
+"Please Enter City" = "من فضلك أدخل المدينة";
+"Please Enter Address" = "يرجى إدخال العنوان";
+"Please Enter Phone No" = "يرجى إدخال رقم الهاتف";
+
+//"Stores"
+"Stores" = "مخازن";
+"Sorry there no data available" = "عذرا لا توجد بيانات متاحة";
+"Empty List" = "قائمة فارغة";
+//"Resturant"
+"Resturants" = "مطاعم";
+
+//"ProductDetail"
+"Product Detail" = "تفاصيل المنتج";
+//"VCSToreTab"
+"Sorry there no data is available refresh it or try it later " = "عذرًا ، لا توجد بيانات متوفرة لتحديثها أو تجربتها لاحقًا";
+//"StoreInfo"
+"Store Info" =  "معلومات المتجر";
+//"Store Product"
+"Store Products" = "منتجات المتجر";
+
+"Ok" = "حسنا";
+
+//VCTerms conditiond
+"Terms and Conditions" = "الأحكام والشروط";
+
+//PrivacyPoilcy
+"Privacy Policy" = "سياسة خاصة";
+
+//About Us
+"About Us" = "معلومات عنا";
+"Follow Us" = "تابعنا";
+
+//ChangeSetting
+"Change Language" = "غير اللغة";
+"English" = "الإنجليزية";
+"Arabic" = "عربى";
+"Change Currency" = "تغيير العملة";
+"USD" = "دولار أمريكي";
+"AED" = "درهم إماراتي";
+"Change Setting" = "تغيير الإعدادات";
+
+
+//"VCPopupprofile"
+
+"Cancel" ="إلغاء" ;
+"Submit" = "خضع" ;
+"Edit Name" = "تعديل الاسم";
+"Please Enter your name" = "من فضلك أدخل إسمك";
+"Edit Email" = "تحرير البريد الالكتروني";
+"Please Enter your Email" = "رجاءا أدخل بريدك الإلكتروني";
+"Edit Gender" = "تحرير الجنس";
+"Please Enter your Gender" = "يرجى إدخال نوع الجنس الخاص بك";
+"Edit Phone no" = "تحرير الهاتف لا";
+"Please Enter your  c n i c " =  "ج ن ط ج من فضلك أدخل";
+"Edit c n i c" = "تحرير ج ن ط ج ";
+"c n i c" = "ج ن ط ج";
+"Edit Gender" = "تحرير الجنس";
+"Please Select your Gender" = "يرجى تحديد نوع الجنس الخاص بك";
+"CANCEL" = "إلغاء";
+"UPDATE" = "تحديث";
+"Edit city" = "تحرير المدينة";
+"Please Enter your city" = "يرجى إدخال المدينة الخاصة بك";
+"Male" = "الذكر";
+"Female" = "إناثا";
+"Please Enter your Phone no" = "يرجى إدخال رقم الهاتف الخاص بك";
+"Please Enter Name" = "من فضلك أدخل الاسم";
+"Please Enter Email" = "يرجى إدخال البريد الإلكتروني";
+"Please Enter Valid Email" = "الرجاء إدخال بريد إلكتروني صحيح";
+"Please Enter Password" = "من فضلك أدخل كلمة المرور";
+"Please Enter Password Below 6 Characters" = "يرجى إدخال كلمة المرور أدناه ستة أحرف";
+"Please Enter CNIC" = "يرجى إدخال CNIC";
+"Please Enter Gender" = "يرجى إدخال الجنس";
+"Please Enter City" = "من فضلك أدخل المدينة";
+"Please Enter Address" = "يرجى إدخال العنوان";
+"Please Enter Phone No" = "يرجى إدخال رقم الهاتف";
+
+
+//"ProductList"
+"Products" = "منتجات";
+
+//"Profile"
+"Name" = "اسم";
+"Email" = "البريد الإلكتروني";
+"Password" = "كلمه السر";
+"CNIC" = "ج ن ط ج";
+"Gender"  = "جنس";
+"City" = "مدينة";
+"Address" = "عنوان";
+"Phone no" = "رقم الهاتف";
+
+//VCGender
+"Male" = "الذكر";
+"Female" = "إناثا";
+
+//VCProfile
+"Name:" = "اسم:";
+"Email:" = "البريد الإلكتروني:";
+"CNIC:" = "CNIC:";
+"Gender:" = "جنس:";
+"City:" = "مدينة:";
+"Address:" = "عنوان:";
+"Phone no:" = "رقم الهاتف:";
+
+//"Stores"
+"Stores" = "مخازن";
+"Sorry there no data available" = "عذرا لا توجد بيانات متاحة";
+"Empty List" = "قائمة فارغة";
+//"Resturant"
+"Resturants" = "مطاعم";
+
+//"ProductDetail"
+"Product Detail" = "تفاصيل المنتج";
+//"VCSToreTab"
+"Sorry there no data is available refresh it or try it later " = "عذرًا ، لا توجد بيانات متوفرة لتحديثها أو تجربتها لاحقًا";
+//"StoreInfo"
+"Store Info" =  "معلومات المتجر";
+//"Store Product"
+"Store Products" = "منتجات المتجر";
+
+"Camera not Available" = "الكاميرا غير متوفرة";
+"Profile Picture" = "الصوره الشخصيه";
+"Library" = "مكتبة";
+"Camera" = "الة تصوير";
+"Stores" = "مخازن";
+"Resturants" = "مطاعم";
+
+
+"Please Enter Your Comment!" = "من فضلك أدخل تعليقك";
+"Hows was your experience with instinct Store?" = "هل كانت تجربتك مع متجر غريزة؟";
+"Write Comments..." = "اكتب التعليقات ...";
+"Submit Feedback" = "إرسال ملاحظات";
+"Comment..." = "اكتب التعليقات ...";
+"Add to Cart" = "أضف إلى السلة";
+"Please Select Some Combination or Feature..." = "الرجاء تحديد بعض الدمج أو الميزة ...";
+"Product is not avaliable in your desired quantity" = "المنتج غير متوفر في الكمية المطلوبة";
+"Please Select Your Quantity" = "يرجى اختيار الكمية الخاصة بك";
+
+//VCProductFilter
+"Please Enter Search Keyword.." = "يرجى إدخال كلمة البحث.";
+"Search" = "بحث";
+"Select Section" = "اختر القسم";
+//VCSearch
+"Product Filter" = "تصفية المنتج";
+//VCproductlist
+"Products" = "منتجات";
+//VCNEarBy
+"Near By" = "مجاوز";
+//VCTopRated
+"Top Rated" = "أعلى التقييمات";
+// VCPlaces
+"Places" = "أماكن";
+"NearBy" = "مجاوز";
+"Toprated" =  "أعلى التقييمات";
+"Cities"  = "مدن";
+
+"Please Enter Your Comment!" = "من فضلك أدخل تعليقك";
+"Hows was your experience with instinct Store?" = "هل كانت تجربتك مع متجر غريزة؟";
+"Write Comments..." = "اكتب التعليقات ...";
+"Submit Feedback" = "إرسال ملاحظات";
+"Comment..." = "اكتب التعليقات ...";
+"Add to Cart" = "أضف إلى السلة";
+"Please Select Some Combination or Feature..." = "الرجاء تحديد بعض الدمج أو الميزة ...";
+"Product is not avaliable in your desired quantity" = "المنتج غير متوفر في الكمية المطلوبة";
+"Please Select Your Quantity" = "يرجى اختيار الكمية الخاصة بك";
+//VCFilterProduct
+"Filters" = "مرشحات";
+"Price Range" = "نطاق السعر";
+"Enter Keyword..." = "أدخل الكلمة المفتاحية...";
+//VCMyOrders
+"My Orders" =  "طلباتي";
+"Completed" =  "منجز";
+"Confirmed" = "تم تأكيد";
+"Shipped"  = "شحنها";
+//VCOderDetail
+"Order Detail"  = "تفاصيل الأمر";
+"Date" = "تاريخ";
+"Total Products" = "مجموع المنتجات";
+"Status" = "الحالة";
+"Store Name" = "اسم المتجر";
+"Received" = "تم الاستلام";
+"Order" = "طلب";
+"Total Amount:" = "المبلغ الإجمالي:";
+"Quantity:" = "كمية:";
+//vcCart
+"Cart" = "عربة التسوق";
+"Continue to Checkout" = "الاستمرار في الخروج";
+"Total Bill" = "إجمالي الفاتورة";
+//vcFVPalces
+"Places" = "أماكن";
+"Products" = "منتجات";
+//vcNotification
+"Notifications" = "إخطارات";
+//vcCityDetail
+"Desert Safari"  = "رحلات السفاري الصحراوية";
+"Submit Feedback" = "إرسال ملاحظات";
+"Share on"  = "مشاركه فى";
+"Location" = "موقعك";
+
+
+"Internet Not Available" = "الإنترنت غير متوفر";
+"Please Try Again" = "حاول مرة اخرى";
+"Couldn't parse data" = "لا يمكن تحليل البيانات";
+"Please Try Again." = "حاول مرة اخرى.";
+"Server Not Available" = "الخادم غير متوفر";
+"Server Not Availabe, Please Try Later." = "الخادم غير متوفر ، يرجى المحاولة لاحقًا.";
+"Network Time Out, Please Try Again." = "وقت انتهاء الشبكة ، يرجى إعادة المحاولة.";
+"Unable To Login" = "غير قادر على تسجيل الدخول";
+"Try Again!" = "حاول مرة أخري!";
+"Sorry there is no data available" = "عذرا لا توجد بيانات متاحة";
+"Please Enter Description For English" = "يرجى إدخال الوصف بالإنجليزية";
+"Please Enter Description For Arabic" = "يرجى إدخال الوصف للغة العربية";
+"Manage Store About" = "إدارة مخزن حول";
+"Description(English)" = "وصف (الإنجليزية)";
+"Description(Arabic)" = "وصف (العربية)";

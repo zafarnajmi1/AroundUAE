@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "GuU-EP-O3F"; */
+"GuU-EP-O3F.text" = "Name";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "Nuv-Ze-OY2"; */
+"Nuv-Ze-OY2.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "O1n-nP-oZE"; */
+"O1n-nP-oZE.normalTitle" = "Submit";
+
+/* Class = "UITextView"; text = "Comment"; ObjectID = "O8s-IJ-Lyr"; */
+"O8s-IJ-Lyr.text" = "Comment";
+
+/* Class = "UILabel"; text = "Your Comment"; ObjectID = "aHu-QM-5nu"; */
+"aHu-QM-5nu.text" = "Your Comment";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "uGZ-wU-HEM"; */
+"uGZ-wU-HEM.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "uqH-5E-oAp"; */
+"uqH-5E-oAp.text" = "Email";
+
+/* Class = "UITextField"; placeholder = "App Feedback"; ObjectID = "yYl-jI-Z5E"; */
+"yYl-jI-Z5E.placeholder" = "App Feedback";
+
+/* Class = "UILabel"; text = "What can we Help you with?"; ObjectID = "yma-1s-dkx"; */
+"yma-1s-dkx.text" = "What can we Help you with?";

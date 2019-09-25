@@ -1,0 +1,6 @@
+framework module Pods_Arounduaetest {
+  umbrella header "Pods-Arounduaetest-umbrella.h"
+
+  export *
+  module * { export * }
+}

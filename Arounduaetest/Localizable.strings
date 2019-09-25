@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  AroundUAE
+
+  Created by Apple on 13/09/2018.
+  Copyright © 2018 Apple. All rights reserved.
+*/
+
+"Around UAE" = "Around UAE";
+//splash
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's";
+
+//language
+"Language" = "Language";
+"Select Language" = "Select Language";
+"Select language to continue with" = "Select language to continue with";
+"English" = "English";
+"Arabic" = "Arabic";
+
+//login screen
+"Login" = "Login";
+"Email" = "Email";
+"Password" = "Password";
+"Forgot your password?" = "Forgot your password?";
+"OR" = "OR";
+"Continue with Facebook" = "Continue with Facebook";
+"Continue with Gmail" = "Continue with Gmail";
+"Don't have an account?" = "Don't have an account?";
+"Register now" = "Register now";
+
+//"Forgot Password"
+"Forgot Password" = "Forgot Password";
+"Forgot your password? Enter your email below " = "Forgot your password? Enter your email below ";
+"Enter Email" = "Enter Email";
+"Submit" = "Submit";
+
+//"Change Password"
+"Change Password" = "Change Password";
+"Enter your new password and then confirm it to change your account password" = "Enter your new password and then confirm it to change your account password";
+"Old Password" = "Old Password";
+"New Password" = "New Password";
+"Confirm Password" = "Confirm Password";
+"Cancel" = "Cancel";
+"Update" = "Update";
+
+
+//Register
+"Register" = "Register";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Phone no" = "Phone no";
+"Address" = "Address";
+"Attach NIC Copy" = "Attach NIC Copy";
+"Gender" = "Gender";
+"Male" = "Male";
+"Female" = "Female";
+"Already have an account?" = "Already have an account?";
+
+//"Email Verfication"
+"Email Verfication" = "Email Verfication";
+"A verfication code is send to your email, please check your email and enter the verfication code below" = "A verfication code is send to your email, please check your email and enter the verfication code below";
+"Enter Code" = "Enter Code";
+"Resend" = "Resend";
+
+//"Contact Us"
+"Contact Us" = "Contact Us";
+"What can we Help you with?" = "What can we Help you with?";
+"App Feedback" = "App Feedback";
+"Name" = "Name";
+"Your Comment" = "Your Comment";
+"Comment" = "Comment";
+
+
+
+
+
+

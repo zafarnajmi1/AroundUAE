@@ -1,0 +1,365 @@
+/*
+ Localizable.strings
+ AroundUAE
+ 
+ Created by Apple on 13/09/2018.
+ Copyright © 2018 Apple. All rights reserved.
+ */
+
+"Around UAE" = "Around UAE";
+//splash
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's" = "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's";
+
+//language
+"Language" = "Language";
+"Select Language" = "Select Language";
+"Select language to continue with" = "Select language to continue with";
+"English" = "English";
+"Arabic" = "Arabic";
+"Near to Far" = "Near to Far";
+"Far to Near" = "Far to Near";
+"Select Option" = "Select Option";
+"Max Price"  = "Max Price";
+"Min Price" = "Min Price";
+//login screen
+"Login" = "Login";
+"Username" = "Username";
+"Password" = "Password";
+"Forgot your password?" = "Forgot your password?";
+"OR" = "OR";
+"Login with facebook" = "Login with facebook";
+"Login with gmail" = "Login with gmail";
+"Don't have an account?" = "Don't have an account?";
+"Register now" = "Register now";
+"Alert" = "Alert";
+"Please Enter Email!" = "Please Enter Email!";
+"Please Enter Valid Email!" = "Please Enter Valid Email!";
+"Please Enter Password" = "Please Enter Password";
+//"Forgot Password"
+"Forgot Password" = "Forgot Password";
+"Forgot your password? Enter your email below " = "Forgot your password? Enter your email below ";
+"Enter Code" = "Enter Code";
+"Submit" = "Submit";
+"Resend" = "Resend";
+"Please Enter email" = "Please Enter email";
+
+//"Change Password"
+"Change Password" = "Change Password";
+"Enter your new password and then confirm it to change your account password" = "Enter your new password and then confirm it to change your account password";
+"Old Password" = "Old Password";
+"New Password" = "New Password";
+"Confirm Password" = "Confirm Password";
+"Cancel" = "Cancel";
+"Update" = "Update";
+
+"Please Enter Old Password" = "Please Enter Old Password";
+"Please Enter New Password" = "Please Enter New Password";
+"Please Enter Confirm Password" = "Please Enter Confirm Password" ;
+"password must contain 6 characters" = "password must contain 6 characters";
+"know more details about various shops, location & tourist spots around UAE" = "know more details about various shops, location & tourist spots around UAE";
+
+//Register
+"Register" = "Register";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Phone no" = "Phone no";
+"Address" = "Address";
+"Attach NIC Copy" = "Attach NIC Copy";
+"Gender" = "Gender";
+"Male" = "Male";
+"Female" = "Female";
+"Already have an account?" = "Already have an account?";
+"Confirm Password" = "Confirm Password";
+"Password" = "Password";
+"Email" = "Email";
+"Login now" = "Login now" ;
+
+"Please Enter First Name" = "Please Enter First Name";
+"Please Enter Last Name" = "Please Enter Last Name";
+"Please Enter Phone Number" =  "Please Enter Phone Number";
+"Please Enter Password" = "Please Enter Password";
+"Please Enter Confirm Password" = "Please Enter Confirm Password";
+"Please Enter Address" = "Please Enter Address";
+"Please Select Nic Image" = "Please Select Nic Image" ;
+
+//"Email Verfication"
+"Email Verfication" = "Email Verfication";
+"A verfication code is send to your email, please check your email and enter the verfication code below" = "A verfication code is send to your email, please check your email and enter the verfication code below";
+"Enter Code" = "Enter Code";
+"Resend" = "Resend";
+"Please Enter Code" = "Please Enter Code";
+
+//"Contact Us"
+"Contact Us" = "Contact Us";
+"What can we Help you with?" = "What can we Help you with?";
+"App Feedback" = "App Feedback";
+"Name" = "Name";
+"Your Comment" = "Your Comment";
+"Comment" = "Comment";
+
+//"TabHomes"
+"Around UAE" = "Around UAE";
+"View More" = "View More";
+"know more details about various shops ,location & tourist spots around UAE"= "know more details about various shops ,location & tourist spots around UAE";
+"GENERAL SERVICES" = "GENERAL SERVICES";
+"Empty List" = "Empty List";
+
+"Sorry there no data is available refresh it or try it later " = "Sorry there no data is available refresh it or try it later ";
+"View All" = "View All";
+//"VCMENU"
+
+"My Orders"  = "My Orders";
+"Change Settings" =  "Change Settings" ;
+"About Us" = "About Us";
+"Terms & Conditions" =   "Terms & Conditions";
+"Privacy Policy" = "Privacy Policy";
+"Logout" =   "Logout" ;
+"Error" = "Error";
+//"ProductList"
+"Products" = "Products";
+
+
+//"Profile"
+"Name" = "Name";
+"Email" = "Email";
+"Password" = "Password";
+"CNIC" = "CNIC";
+"Gender"  = "Gender";
+"City" = "City";
+"Address" = "Address";
+"Phone no" = "Phone no";
+//"VCPopupprofile"
+
+"Cancel" ="Cancel" ;
+"Submit" ="Submit" ;
+"Edit Name" = "Edit Name";
+"Please Enter your name" = "Please Enter your name" ;
+"Edit Email" = "Edit Email";
+"Please Enter your Email" = "Please Enter your Email";
+"Edit Gender" = "Edit Gender";
+"Please Enter your Gender" = "Please Enter your Gender";
+"Edit Phone no" = "Edit Phone no";
+"Edit CNIC" = "Edit CNIC";
+"Please Enter your CNIC " = "Please Enter your CNIC ";
+"Edit Gender" = "Edit Gender";
+"Please Select your Gender" = "Please Select your Gender";
+"CANCEL" = "CANCEL";
+"UPDATE" = "UPDATE";
+"Edit City" = "Edit City";
+"Please Enter your city" = "Please Enter your city";
+"Male" = "Male";
+"Female" = "Female";
+"Please Enter your Phone no" = "Please Enter your Phone no";
+"Please Enter Name" = "Please Enter Name";
+"Please Enter Email" = "Please Enter Email";
+"Please Enter Valid Email" = "Please Enter Valid Email";
+"Please Enter Password" = "Please Enter Password";
+"Please Enter Password Below 6 Characters" = "Please Enter Password Below 6 Characters";
+"Please Enter CNIC" = "Please Enter CNIC";
+"Please Enter Gender" = "Please Enter Gender";
+"Please Enter City" = "Please Enter City";
+"Please Enter Address" = "Please Enter Address";
+"Please Enter Phone No" = "Please Enter Phone No";
+
+//"Stores"
+"Stores" = "Stores";
+"Sorry there no data available" = "Sorry there no data available";
+"Empty List" = "Empty List";
+//"Resturant"
+"Resturants" = "Resturants";
+
+//"ProductDetail"
+"Product Detail" = "Product Detail";
+//"VCSToreTab"
+"Sorry there no data is available refresh it or try it later " = "Sorry there no data is available refresh it or try it later ";
+//"StoreInfo"
+"Store Info" =  "Store Info";
+//"Store Product"
+"Store Products" = "Store Products";
+
+"Ok" = "Ok";
+
+//VCTerms conditiond
+"Terms and Conditions" = "Terms and Conditions";
+
+//PrivacyPoilcy
+"Privacy Policy" = "Privacy Policy";
+
+//About Us
+"About Us" = "About Us";
+"Follow Us" = "Follow Us";
+
+//ChangeSetting
+"Change Language" = "Change Language";
+"English" = "English";
+"Arabic" = "Arabic";
+"Change Currency" = "Change Currency";
+"USD" = "USD";
+"AED" = "AED";
+"Change Setting" = "Change Setting";
+
+//"VCPopupprofile"
+
+"Cancel" ="Cancel" ;
+"Submit" ="Submit" ;
+"Edit Name" = "Edit Name";
+"Please Enter your name" = "Please Enter your name" ;
+"Edit Email" = "Edit Email";
+"Please Enter your Email" = "Please Enter your Email";
+"Edit Gender" = "Edit Gender";
+"Please Enter your Gender" = "Please Enter your Gender";
+"Edit Phone no" = "Edit Phone no";
+"Edit CNIC" = "Edit CNIC";
+"Please Enter your CNIC " = "Please Enter your CNIC ";
+"Edit Gender" = "Edit Gender";
+"Please Select your Gender" = "Please Select your Gender";
+"CANCEL" = "CANCEL";
+"UPDATE" = "UPDATE";
+"Edit City" = "Edit city";
+"Please Enter your city" = "Please Enter your city";
+"Male" = "Male";
+"Female" = "Female";
+"Please Enter your Phone no" = "Please Enter your Phone no";
+"Please Enter Name" = "Please Enter Name";
+"Please Enter Email" = "Please Enter Email";
+"Please Enter Valid Email" = "Please Enter Valid Email";
+"Please Enter Password" = "Please Enter Password";
+"Please Enter Password Below 6 Characters" = "Please Enter Password Below 6 Characters";
+"Please Enter CNIC" = "Please Enter CNIC";
+"Please Enter Gender" = "Please Enter Gender";
+"Please Enter City" = "Please Enter City";
+"Please Enter Address" = "Please Enter Address";
+"Please Enter Phone No" = "Please Enter Phone No";
+
+
+//"ProductList"
+"Products" = "Products";
+
+//"Profile"
+"Name" = "Name";
+"Email" = "Email";
+"Password" = "Password";
+"CNIC" = "CNIC";
+"Gender"  = "Gender";
+"City" = "City";
+"Address" = "Address";
+"Phone no" = "Phone no";
+"Profile" = "Profile";
+
+//VCGender
+"Male" = "Male";
+"Female" = "Female";
+
+//VCProfile
+"Name:" = "Name:";
+"Email:" = "Email:";
+"CNIC:" = "CNIC:";
+"Gender:" = "Gender:";
+"City:" = "City:";
+"Address:" = "Address:";
+"Phone no:" = "Phone no:";
+
+
+//"Stores"
+"Stores" = "Stores";
+"Sorry there no data available" = "Sorry there no data available";
+"Empty List" = "Empty List";
+//"Resturant"
+"Resturants" = "Resturants";
+
+//"ProductDetail"
+"Product Detail" = "Product Detail";
+//"VCSToreTab"
+"Sorry there no data is available refresh it or try it later " = "Sorry there no data is available refresh it or try it later ";
+//"StoreInfo"
+"Store Info" =  "Store Info";
+//"Store Product"
+"Store Products" = "Store Products";
+
+"Camera not Available" = "Camera not Available";
+"Profile Picture" = "Profile Picture";
+"Camera" = "Camera";
+"Library" = "Library";
+"Stores" = "Stores";
+"Resturants" = "Resturants";
+
+"Please Enter Your Comment!" = "Please Enter Your Comment!";
+"Hows was your experience with instinct Store?" = "Hows was your experience with instinct Store?";
+"Write Comments..." = "Write Comments...";
+"Submit Feedback" = "Submit Feedback";
+"Comment..." = "Comment...";
+"Add to Cart" = "Add to Cart";
+"Please Select Some Combination or Feature..." = "Please Select Some Combination or Feature...";
+"Product is not avaliable in your desired quantity" = "Product is not avaliable in your desired quantity";
+"Please Select Your Quantity" = "Please Select Your Quantity";
+
+
+//VCProductFilter
+"Please Enter Search Keyword.." = "Please Enter Search Keyword..";
+"Search" = "Search";
+"Select Section" = "Select Section";
+//VCSearch
+"Product Filter" = "Product Filter";
+//VCproductlist
+"Products" = "Products";
+//VCNEarBy
+"Near By" = "Near By";
+//VCTopRated
+"Top Rated" = "Top Rated";
+// VCPlaces
+"Places" = "Places";
+"NearBy" = "NearBy";
+"Toprated" =  "Toprated";
+"Cities"  = "Cities";
+
+
+
+//VCFilterProduct
+"Filters" = "Filters";
+"Price Range" = "Price Range";
+"Enter Keyword..." = "Enter Keyword...";
+//VCMyOrders
+"My Orders" =  "My Orders";
+"Completed" =  "Completed";
+"Confirmed" = "Confirmed";
+"Shipped"  = "Shipped";
+//VCOderDetail
+"Order Detail"  = "Order Detail";
+"Date" = "Date";
+"Total Products" = "Total Products";
+"Status" = "Status";
+"Store Name" = "Store Name";
+"Received" = "Received";
+"Order" = "Order";
+"Total Amount:" = "Total Amount:";
+"Quantity:" = "Quantity:";
+//vcCart
+"Cart" = "Cart";
+"Continue to Checkout" = "Continue to Checkout";
+"Total Bill" = "Total Bill";
+//vcFVPalces
+"Places" = "Places";
+"Products" = "Products";
+//vcNotification
+"Notifications" = "Notifications";
+//vcCityDetail
+"Desert Safari"  = "Desert Safari";
+"Submit Feedback" = "Submit Feedback";
+"Share on"  = "Share on";
+"Location" = "Location";
+
+"Internet Not Available" = "Internet Not Available";
+"Please Try Again" = "Please Try Again";
+"Couldn't parse data" = "Couldn't parse data";
+"Please Try Again." = "Please Try Again.";
+"Server Not Available" = "Server Not Available";
+"Server Not Availabe, Please Try Later." = "Server Not Availabe, Please Try Later.";
+"Network Time Out, Please Try Again." = "Network Time Out, Please Try Again.";
+"Unable To Login" = "Unable To Login";
+"Try Again!" = "Try Again!";
+"Sorry there is no data available" = "Sorry there is no data available";
+"Please Enter Description For English" = "Please Enter Description For English";
+"Please Enter Description For Arabic" = "Please Enter Description For Arabic";
+"Manage Store About" = "Manage Store About";
+"Description(English)" = "Description(English)";
+"Description(Arabic)" = "Description(Arabic)";
